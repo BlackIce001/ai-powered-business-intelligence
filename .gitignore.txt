@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Secrets
+.env
+
+# Databases
+*.db
+
+# Power BI temp
+*.pbix.tmp
+
+# OS
+Thumbs.db
+.DS_Store
